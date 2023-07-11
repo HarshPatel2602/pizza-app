@@ -19,3 +19,28 @@
 .footer p {
   color: white;
 }
+
+.Instagram {
+  width: 30px;
+  height: 30px;
+  margin-bottom: 5px;padding: 5px;
+}
+.Twitter {
+  width: 35px;
+  height: 35px;
+  margin-bottom: 3px;
+  padding: 5px;
+}
+.Facebook {
+  width: 25px;
+  height: 25px;
+  margin-bottom: 8px;
+  padding: 5px;
+}
+.Linkedin {
+  width: 35px;
+  height: 35px;
+  margin-bottom: 3px;
+  padding: 5px;
+}
+
